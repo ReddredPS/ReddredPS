@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReddredPS
 - 👀 I’m interested in anime, muds, and coding.
-- 🌱 I’m currently learning to create my own MUD.
+- 🌱 I’m currently learning to create my own Dragonball MUD.
 - 💞️ I’m looking to collaborate on nothing. 
 - 📫 How to reach me 
 
